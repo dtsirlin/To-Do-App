@@ -5,7 +5,7 @@ Simple To Do application utilising a variety of technologies as a learning exerc
 Tech to use to start:
 - back-end: java
 - front-end: find something basic?
-- database: MySQL
+- database: SQLite
 - OS: linux (centos or redhat)
 - Container: Docker
 - Cloud: AWS
