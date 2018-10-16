@@ -2,13 +2,19 @@
 Simple To Do application utilising a variety of technologies as a learning exercise.
 
 
-Tech to use to start:
-- back-end: java
-- front-end: find something basic?
-- database: SQLite
-- OS: linux (centos or redhat)
-- Container: Docker
-- Cloud: AWS
+Tech so far
+- Back-end
+    - Java 8
+    - Springboot
+    - Gradle
+- Database
+    - sqlite
+- Front-end
+    - TBD
+- Containers
+    - TBD
+- Cloud platform 
+    - TBD
 
 
 Back-end:
