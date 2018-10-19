@@ -7,6 +7,7 @@ public class Main {
     private static final String dbConnectionUrl = "jdbc:sqlite:" + dbUrl;
 
     public static void main( String args[] ) {
+        selectRecords();
     }
 
     public static void createDb() {
